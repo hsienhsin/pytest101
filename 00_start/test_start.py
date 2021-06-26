@@ -8,8 +8,8 @@ def test_sqrt():
 
 def test_square():
     num = 7
-    # assert 7 * 7 == 40      # 49
-    assert 7 * 7 == 49      # 49
+    assert 7 * 7 == 40      # 49
+    # assert 7 * 7 == 49      # 49
 
 
 def test_equality():
